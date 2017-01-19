@@ -4,7 +4,7 @@ This repository contains data and [R](https://www.r-project.org/) code to recrea
 
 ## Data
 
-[Data](https://data.giss.nasa.gov/gistemp/graphs/graph_data/Global_Mean_Estimates_based_on_Land_and_Ocean_Data/graph.csv) on the historical temperature record came from NASA. [Data](https://www.bloomberg.com/graphics/2015-whats-warming-the-world/data/forcings.csv) from NASA simulations of historical climate, estimating the effect of natural and human influences on climate, came via Bloomberg News.
+[Data](https://data.giss.nasa.gov/gistemp/graphs/graph_data/Global_Mean_Estimates_based_on_Land_and_Ocean_Data/graph.csv) on the historical temperature record came from NASA. [Data](https://www.bloomberg.com/graphics/2015-whats-warming-the-world/data/forcings.csv) from NASA simulations of historical temperatures, estimating the effect of natural and human influences on climate, came via Bloomberg News.
 
 ## Methodology / Code
 
